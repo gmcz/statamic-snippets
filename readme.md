@@ -1,3 +1,3 @@
-# Sublime Statamic Snippets
+# Statamic Snippets for Vim
 
-Soon...
+Just forked ST3 snippets from chrisburton. These are not compatible with vim yet.
